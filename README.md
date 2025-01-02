@@ -5,7 +5,6 @@ I’m currently working on one of the many personal projects!!
 
 How To Reach Me:
   Phone Number: +1 872-305-7616
-  Email Address: FernandoLpz0911.business@Gmail.com
 
 <!--
 **FernandoLpz0911/FernandoLpz0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
