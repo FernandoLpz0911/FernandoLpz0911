@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hii!! I'm Fernando:
 -I am currently studying Computer Science at UIC<br>-I am currently learning how to develop my portfolio<br>-I use C++, Python, and SQL
 
 
