@@ -3,6 +3,7 @@
 - Learning about Projects to develop
 - How To Reach Me: +1 872-305-7616
 
+- Tech Stacks: Python, C++, SQL
 
 <!--
 **FernandoLpz0911/FernandoLpz0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
