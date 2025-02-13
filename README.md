@@ -10,9 +10,9 @@ So far I have one project which I worked on in a team called UICRegistration in 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-add embedded links to projects
-briefly explain projects
-improve the bio
-add a better picture
+<!-- add embedded links to projects -->
+<!-- briefly explain projects -->
+<!-- improve the bio -->
+<!-- add a better picture -->
 <!--
 **FernandoLpz0911/FernandoLpz0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
