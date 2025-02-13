@@ -1,5 +1,5 @@
 # Hii!! I'm Fernando:
--I am currently studying Computer Science at UIC<br>-I am currently learning how to develop my portfolio<br>-I use C++, Python, and SQL
+-I am currently studying Computer Science at UIC<br>-I am currently developing my portfolio<br>-I use C++, Python, Javascript, and SQL
 
 
 # 💻 Tech Stack:
@@ -15,14 +15,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
-**FernandoLpz0911/FernandoLpz0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**FernandoLpz0911/FernandoLpz0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
