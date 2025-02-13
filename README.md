@@ -1,7 +1,7 @@
 # Hi, I'm Fernando!!
 I'm currently a junior computer science at UIC and I really love to code and improve upon myself!! Ever since I was younger I've always loved to improve at things and I noticed that the bliss of finishing a project and looking at it and being proud of it was amazing!! Then after a bit being like "I can totally add this, that would make it so much better!!" and then preceding to stay up just to add some small little feature!! My goal is to have the skills to become a full-stack developer by constantly improving and learning more and more code!!
 
-So far I have one project which I worked on in a team called UICRegistration in which I participated in a 24 hours hackathon on a team in which we were given a prompt to take something and make it better and we decided to do the UIC Registration Page as it was applicable to us and was a common complaint!! We focused on fixing the UI of the page while also generally keeping it as close to the same styling as possible!!
+So far I have one project which I worked on in a team called [UICRegistration] in which I participated in a 24 hours hackathon on a team in which we were given a prompt to take something and make it better and we decided to do the UIC Registration Page as it was applicable to us and was a common complaint!! We focused on fixing the UI of the page while also generally keeping it as close to the same styling as possible!!
 
 
 
