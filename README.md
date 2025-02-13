@@ -1,4 +1,4 @@
-# Hi, I'm Fernando:
+# Hi, I'm Fernando!!
 I'm currently studyin computer science at UIC and I really love to code and improve upon myself!! Ever since I was younger I've always loved to improve at things and I noticed that the bliss of finishing a project and looking at it and being proud of it was amazing!! Then after a bit being like "I can totally add this, that would make it so much better!!" and then preceding to stay up just to add some small little feature!! It's silly but it's always been something I enjoyed!! Now to be able to make that improvement process something I can do for a living is absolutely amazing to me!!
 
 
