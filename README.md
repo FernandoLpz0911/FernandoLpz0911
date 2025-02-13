@@ -3,10 +3,10 @@ I'm currently a junior computer science at UIC and I really love to code and imp
 
 So far I have one project which I worked on in a team called UICRegistration in which I participated in a 24 hours hackathon on a team in which we were given a prompt to take something and make it better and we decided to do the UIC Registration Page as it was applicable to us and was a common complaint!! We focused on fixing the UI of the page while also generally keeping it as close to the same styling as possible!!
 
-#add embedded links to projects
-#briefly explain projects
-#improve the bio
-#add a better picture
+//add embedded links to projects
+//briefly explain projects
+//improve the bio
+//add a better picture
 
 
 # 💻 Technical Skills:
