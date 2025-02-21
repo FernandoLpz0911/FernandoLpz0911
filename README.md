@@ -10,8 +10,6 @@ So far I have one project which I worked on in a team called [UICRegistration](h
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- add embedded links to projects -->
-<!-- briefly explain projects -->
 <!-- improve the bio -->
 <!-- add a better picture -->
 <!--
