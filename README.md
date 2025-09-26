@@ -1,4 +1,4 @@
-# Hello World! I'm Fernando Lopez 👋
+# Hi!! I'm Fernando Lopez!!
 
 I'm a **Junior Computer Science student at UIC** ('26) who lives by the philosophy of constant improvement. There's nothing quite like the excitement of finishing a complex project—except the immediate urge to jump back in and add a "small" feature that makes it exponentially better! My long-term goal is to master the full stack, turning ambitious ideas into polished, scalable applications.
 
