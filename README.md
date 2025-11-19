@@ -32,7 +32,7 @@ My goal is to just keep leveling up as a developer—whether that's building ful
 
 ---
 
-### 📫 Let's Connect
-*   💼 [LinkedIn](https://www.linkedin.com/in/fernando-lopez-dev/)
-*   🌐 [Portfolio](https://fernandolpz.dev)
-*   📧 [Email](mailto:flope8@uic.edu)
+### Let's Connect
+*    [LinkedIn](https://www.linkedin.com/in/fernando-lopez-dev/)
+*    [Portfolio](https://fernandolpz.dev)
+*    [Email](mailto:flope8@uic.edu)
