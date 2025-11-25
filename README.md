@@ -13,7 +13,6 @@ My goal is to just keep leveling up as a developer—whether that's building ful
 ---
 
 ### What I'm Working On
-- **NASA Lunabotics Team**: I'm on the Control Systems team, using C++ and ROS to help design a lunar robot for the Artemis Mission.
 - **Smart Notes App**: A cross-platform app I'm building that handles 20,000+ daily edits. I worked on the C++ logic to make sure data syncs perfectly with Firebase.
 - **Mentorship**: I help mentor students through the *Women in Computer Science* program, teaching them how to build and deploy their own websites.
 
