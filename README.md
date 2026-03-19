@@ -12,6 +12,4 @@ I'm a CS Undergrad and am very well familiar with everything I touch. I enjoy wh
 
 
 ### Socials
-*    [LinkedIn](https://www.linkedin.com/in/fernando-lopez-dev/)
-*    [Portfolio](https://fernandolpz.dev)
-*    [Email](mailto:flope8@uic.edu)
+*    [LinkedIn](https://www.linkedin.com/in/fernando-lopez-dev/)   [Portfolio](https://fernandolpz.dev)   [Email](mailto:flope8@uic.edu)
